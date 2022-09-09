@@ -1,3 +1,7 @@
 Hmm, file 3 of chapter 1 in git tutorial. Many more to come.
 
+<<<<<<< HEAD
 This is alien plot okay.
+=======
+Now I’ve made changes in the alien plot branch.
+>>>>>>> main
